@@ -1,7 +1,7 @@
 {
-    "name": "Mnvx/UnoconvLaravel",
+    "name": "mnvx/unoconv-laravel",
     "type": "library",
-    "description": ":package_description",
+    "description": "Laravel Unoconv for Laravel 5",
     "keywords": [
         "Mnvx",
         "UnoconvLaravel"

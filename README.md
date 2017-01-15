@@ -34,7 +34,7 @@ echo Converter::convert($parameters);
 ## Installation
 
 ```
-composer require mnvx/unoconv-laravel:dev-master
+composer require mnvx/unoconv-laravel
 ```
 
 More about [PHP wrapper over Unoconv](https://github.com/mnvx/unoconv)
